@@ -1,9 +1,8 @@
 
 package aula02;
 
-
 public class caracters_manipulation {
-    
+
     public static void main(String[] args) {
         char letra = 'a';
         
@@ -16,5 +15,5 @@ public class caracters_manipulation {
         System.out.println("é vogal?: "+ letra);
         
     }
-    
+
 }
