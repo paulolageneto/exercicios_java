@@ -9,7 +9,7 @@ public class ano_bissexto {
         int ano = input.nextInt();
         boolean bissexto = false;
 
-        //vi essa conta de divisao na internet para descobrir se o ano e bissexto ou nao
+        // conta de divisao que encotrei na internet para descobrir se o ano e bissexto
         if (ano % 4 == 0) {
             if (ano % 100 == 0) {
                 if (ano % 400 == 0) {
