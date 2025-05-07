@@ -10,6 +10,7 @@ public class exercicio_6 {
         System.out.print("digite um número: ");
         int n1 = input.nextInt();
 
+        // conta q encontrei no google
         while (n1 > 0) {
             int digito = n1 % 10;
             inverso = inverso * 10 + digito;
