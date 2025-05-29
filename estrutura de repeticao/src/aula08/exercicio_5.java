@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class exercicio_5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int i = 0;
 
         while (true) {
             System.out.print("digite um numero: ");
@@ -17,6 +16,6 @@ public class exercicio_5 {
             }
 
         }
-        
+
     }
 }
